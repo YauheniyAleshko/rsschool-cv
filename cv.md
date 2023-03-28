@@ -30,7 +30,7 @@ in order to become a valued frontend development specialist
 - [Сard game](https://yauheniyaleshko.github.io/Site-game/)
 
 ### Work expirience  
-fdfss
+I am only study
 
 ### Education  
 Programming school “My it school” 
